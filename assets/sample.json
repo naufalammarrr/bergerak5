@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "Memuat Gambar",
+      "body": "Memuat gambar dari assets dan dari URL, dengan penanganan error serta caching untuk mempercepat loading gambar pada peluncuran berikutnya. Pastikan gambar dapat beradaptasi dengan mode potret dan lanskap."
+    },
+    {
+      "id": 2,
+      "title": "Berbagai Font",
+      "body": "Menggunakan font lokal dari assets untuk seluruh teks, dan fitur untuk menerapkan Google Font secara dinamis ke widget teks tertentu."
+    },
+    {
+      "id": 3,
+      "title": "File JSON",
+      "body": "Dapat membaca file JSON dari assets atau mengambil data JSON dari internet, lalu menampilkannya dalam ListView."
+    }
+  ]
+  
